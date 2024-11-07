@@ -4,9 +4,9 @@
 ---
 
 ### 📫 Connect with me:
-- **Email**: [your.email@example.com](ayeshaas299@gmail.com)
+- **Email**: (ayeshaas299@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ayesha-sajid-5a761b220](https://www.linkedin.com/in/ayesha-sajid-5a761b220)
-- **GitHub**: [github.com/your-username](https://github.com/ayeshasajid1034)
+- **GitHub**: (https://github.com/ayeshasajid1034)
 
 ---
 
