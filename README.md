@@ -18,7 +18,7 @@ Enthusiastic and driven Computer Science graduate with a strong foundation in Ar
 ### 🎓 Education
 - **BS in Computer Science**  
   *FAST NUCES*  
-  *Graduation Year: 202X*
+  *Graduation Year: 2025*
 
 ---
 
@@ -47,32 +47,20 @@ Enthusiastic and driven Computer Science graduate with a strong foundation in Ar
 ---
 
 ### 📁 Projects
-- **AI-Powered Adaptive Learning Platform**  
-  *Description*: Developed a personalized learning platform using AI and ML to adapt content for students preparing for standardized tests.
-
-- **AI-Enhanced Remote Work Collaboration Tool**  
-  *Description*: Built a tool to improve team communication and productivity, offering suggestions and insights on team dynamics.
 
 - **AI-Driven Investment Bot for Stock Prediction**  
-  *Description*: Created a bot that predicts stock performance using financial indicators, focusing on the tech sector in Pakistan.
+  *Description*: Creating a bot that predicts stock performance using financial indicators, focusing on the tech sector in Pakistan.
 
 ---
 
 ### 💼 Experience
 - **Intern, AI and Machine Learning**  
-  *Company Name, Location*  
-  *Duration: Month Year - Month Year*  
-  - Worked on projects involving NLP and ML algorithms to enhance data processing.
-  - Developed a recommendation engine to improve content suggestions.
+  *Funavry Technologies, Islamabad*  
+  *Duration: June 2023 - Aug 2023*  
+  - Worked on data pre processing.
 
 ---
 
-### 🎓 Certifications
-- **Machine Learning** by Stanford University (Coursera)
-- **Deep Learning Specialization** by DeepLearning.AI (Coursera)
-- **Full-Stack Web Development Certification**
-
----
 
 ### 🌍 Languages
 - **English**: Fluent
